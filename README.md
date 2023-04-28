@@ -4,7 +4,9 @@ GANC: Greedy Agglomerative Normalized Cut
   	
 
 Student: Seyed Salim Tabatabaei, M. Eng Student
+
 Supervisor: Prof. Mark Coates
+
 Collaborator: Prof. Mike Rabbat 
 
 Description:
